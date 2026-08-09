@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/rtl/interrupt_controller.sv" into library work
+INFO: [VRFC 10-311] analyzing module interrupt_controller
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/interface.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/transaction.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/generator.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/driver.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/monitor.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/scoreboard.sv" into library work
+ERROR: [VRFC 10-4982] syntax error near '[' [/home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/scoreboard.sv:44]
+ERROR: [VRFC 10-4982] syntax error near '[' [/home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/scoreboard.sv:46]
