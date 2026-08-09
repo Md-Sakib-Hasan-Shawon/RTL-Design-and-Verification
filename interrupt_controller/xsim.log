@@ -1,0 +1,279 @@
+#-----------------------------------------------------------
+# xsim v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Jul 15 16:58:41 2026
+# Process ID         : 10367
+# Current directory  : /home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller
+# Command line       : xsim -mode tcl -source {xsim.dir/work.tb_top/xsim_script.tcl}
+# Log file           : /home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/xsim.log
+# Journal file       : /home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/xsim.jou
+# Running On         : dev-r6c4
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 20.04.6 LTS
+# Processor Detail   : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+# CPU Frequency      : 3200.000 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 6
+# Host memory        : 16580 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 18727 MB
+# Available Virtual  : 14313 MB
+#-----------------------------------------------------------
+source xsim.dir/work.tb_top/xsim_script.tcl
+# xsim {work.tb_top} -autoloadwcfg -runall
+Time resolution is 1 ps
+run -all
+----------------------------------------
+GENERATOR
+addr         = 1
+wdata        = 7f
+we           = 1
+ci           = 1100110
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 1
+wdata        = 3e
+we           = 1
+ci           = 1110110
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 4
+wdata        = 32
+we           = 0
+ci           = 11010111
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 5
+wdata        = 5
+we           = 1
+ci           = 110100
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 3
+wdata        = ae
+we           = 1
+ci           = 11010010
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 7
+wdata        = 5d
+we           = 1
+ci           = 11
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 7
+wdata        = fc
+we           = 1
+ci           = 10000
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 2
+wdata        = 76
+we           = 1
+ci           = 10010010
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 5
+wdata        = f2
+we           = 0
+ci           = 11011111
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 0
+wdata        = d5
+we           = 1
+ci           = 10010111
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 7
+wdata        = 72
+we           = 1
+ci           = 11100010
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 6
+wdata        = 96
+we           = 1
+ci           = 11001101
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 0
+wdata        = fc
+we           = 1
+ci           = 1101011
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 6
+wdata        = aa
+we           = 1
+ci           = 1000110
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 5
+wdata        = 6c
+we           = 0
+ci           = 11100011
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 6
+wdata        = bd
+we           = 1
+ci           = 111111
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 3
+wdata        = ec
+we           = 1
+ci           = 1100010
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 0
+wdata        = 43
+we           = 1
+ci           = 1001111
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 2
+wdata        = fd
+we           = 1
+ci           = 11010101
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+----------------------------------------
+GENERATOR
+addr         = 3
+wdata        = 91
+we           = 1
+ci           = 1111101
+rdata        = 0
+core0_valid  = 0
+core0_id     = 0
+core1_valid  = 0
+core1_id     = 0
+----------------------------------------
+Error: CORE0 VALID MISMATCH
+Time: 215 ns  Iteration: 0  Process: /tb_pkg/scoreboard::run  Scope: tb_pkg.scoreboard::run  File: /home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/scoreboard.sv Line: 59
+Error: CORE0 ID MISMATCH
+Time: 275 ns  Iteration: 0  Process: /tb_pkg/scoreboard::run  Scope: tb_pkg.scoreboard::run  File: /home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/scoreboard.sv Line: 62
+Error: CORE0 ID MISMATCH
+Time: 375 ns  Iteration: 0  Process: /tb_pkg/scoreboard::run  Scope: tb_pkg.scoreboard::run  File: /home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/scoreboard.sv Line: 62
+================================
+      SIMULATION FINISHED
+================================
+$finish called at time : 500 ns : File "/home/shawon/Desktop/Batch2_testing/practice/shawon/interrupt_controller/tb/tb_top.sv" Line 72
+exit
+INFO: [Common 17-206] Exiting xsim at Wed Jul 15 16:58:44 2026...
